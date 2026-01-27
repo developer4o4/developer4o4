@@ -26,11 +26,11 @@
   <img src="https://img.shields.io/badge/PostgreSQL-0b1220?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-0b1220?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-0b1220?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Celery-0b1220?style=for-the-badge&logo=celery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-0b1220?style=for-the-badge&logo=redis&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/Celery-0b1220?style=for-the-badge&logo=celery&logoColor=white" /> -->
+  <!-- <img src="https://img.shields.io/badge/Redis-0b1220?style=for-the-badge&logo=redis&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/Git-0b1220?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-0b1220?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-0b1220?style=for-the-badge&logo=javascript&logoColor=f7df1e" />
+  <!-- <img src="https://img.shields.io/badge/JavaScript-0b1220?style=for-the-badge&logo=javascript&logoColor=f7df1e" /> -->
 </p>
 
 ---
