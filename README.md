@@ -63,8 +63,8 @@
 
 ## 📬 Contact
 - 📍 Location: Uzbekistan
-- 📸 Instagram: **developer_404**
-- 💬 Telegram: **developer_4o4**
+- 📸 Instagram: **mr.pydevx**
+- 💬 Telegram: **pydevx**
 - 📞 Phone: **+998957021012**
 
 ---
